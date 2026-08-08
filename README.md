@@ -16,3 +16,9 @@ The documentation may include examples and references related to:
 - TypeScript
 - SQL
 - Git and GitHub
+
+## Repository Structure
+
+The repository is organized to make documentation easy to find and maintain.
+
+Each section focuses on a specific topic, technology, or development practice. New documentation can be added as the repository evolves.
