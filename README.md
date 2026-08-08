@@ -42,3 +42,15 @@ docs: add usage instructions
 Co-authored-by: Nome do Coautor <email-do-coautor>
 
 Push → PR → merge.
+
+## Git Workflow
+
+This repository follows a simple Git workflow to keep changes organized and easy to review.
+
+1. Update the local main branch.
+2. Create a branch for the proposed change.
+3. Make and review the changes.
+4. Commit using a descriptive message.
+5. Push the branch to GitHub.
+6. Open a pull request.
+7. Merge the pull request after review.
