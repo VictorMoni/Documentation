@@ -93,6 +93,18 @@ Examples:
 
 Clear commit messages make the project history easier to understand.
 
+## Code Examples
+
+Code examples can make technical documentation easier to understand.
+
+When adding examples:
+
+- Keep the code focused on the concept being explained.
+- Avoid unnecessary complexity.
+- Use descriptive variable names.
+- Include comments when additional context is useful.
+- Make sure examples are formatted correctly
+
 ## Pull Request Guidelines
 
 Pull requests should describe the changes being introduced and their purpose.
@@ -106,3 +118,4 @@ Before opening a pull request:
 5. Explain the changes in the pull request description.
 
 Keeping pull requests focused makes changes easier to review.
+
