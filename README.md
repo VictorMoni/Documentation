@@ -79,3 +79,16 @@ Examples:
 - `feature/new-example`
 
 Consistent branch names make the repository easier to navigate and maintain.
+
+## Commit Message Guidelines
+
+Commit messages should briefly describe the purpose of each change.
+
+Examples:
+
+- `docs: update installation guide`
+- `docs: add usage examples`
+- `fix: correct broken documentation link`
+- `refactor: reorganize documentation structure`
+
+Clear commit messages make the project history easier to understand.
