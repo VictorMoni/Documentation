@@ -66,3 +66,16 @@ When adding new content:
 - Include examples when appropriate.
 - Use code blocks for commands and source code.
 - Review the content before submitting changes.
+
+## Branch Naming
+
+Branches should use descriptive names that indicate the purpose of the change.
+
+Examples:
+
+- `docs/update-readme`
+- `docs/add-guide`
+- `fix/broken-link`
+- `feature/new-example`
+
+Consistent branch names make the repository easier to navigate and maintain.
