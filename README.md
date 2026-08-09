@@ -32,11 +32,11 @@ You can also clone the repository locally:
 ```bash
 git clone <repository-url>
 
-After cloning, open the documentation files using your preferred code editor.
-
+After cloning, open the documentation files using your preferred code editor."
+```
 
 **Commit:**
-```text
+
 docs: add usage instructions
 
 Co-authored-by: Nome do Coautor <email-do-coautor>
