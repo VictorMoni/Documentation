@@ -119,3 +119,8 @@ Before opening a pull request:
 
 Keeping pull requests focused makes changes easier to review.
 
+## Content Organization
+
+Documentation should follow a consistent structure to make information easier to find.
+
+Related topics should be grouped together, headings should clearly describe their content, and sections should follow a logical order.
