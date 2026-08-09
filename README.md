@@ -92,3 +92,15 @@ Examples:
 - `refactor: reorganize documentation structure`
 
 Clear commit messages make the project history easier to understand.
+
+## Code Examples
+
+Code examples can make technical documentation easier to understand.
+
+When adding examples:
+
+- Keep the code focused on the concept being explained.
+- Avoid unnecessary complexity.
+- Use descriptive variable names.
+- Include comments when additional context is useful.
+- Make sure examples are formatted correctly
