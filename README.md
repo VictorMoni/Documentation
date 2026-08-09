@@ -104,3 +104,18 @@ When adding examples:
 - Use descriptive variable names.
 - Include comments when additional context is useful.
 - Make sure examples are formatted correctly
+
+## Pull Request Guidelines
+
+Pull requests should describe the changes being introduced and their purpose.
+
+Before opening a pull request:
+
+1. Review the modified files.
+2. Make sure the documentation is clear.
+3. Check for spelling or formatting issues.
+4. Use a descriptive pull request title.
+5. Explain the changes in the pull request description.
+
+Keeping pull requests focused makes changes easier to review.
+
