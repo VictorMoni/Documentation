@@ -54,3 +54,15 @@ This repository follows a simple Git workflow to keep changes organized and easy
 5. Push the branch to GitHub.
 6. Open a pull request.
 7. Merge the pull request after review.
+
+## Documentation Guidelines
+
+Documentation should be clear, concise, and easy to understand.
+
+When adding new content:
+
+- Use descriptive headings.
+- Keep paragraphs short and focused.
+- Include examples when appropriate.
+- Use code blocks for commands and source code.
+- Review the content before submitting changes.
